@@ -11,7 +11,8 @@ since we're Google, we use protos.
 
 This also leads to some very Google-specific ways of mapping proto RPCs to
 RESTful URIs (`google.api.http` annotations). If you're not using protos, feel
-free to follow the _spirit_ of the API guidance since you won't be able to
+free to follow the _spirit_ of the API guidance since you won't <img width="1500" height="844" alt="1000093439" src="https://github.com/user-attachments/assets/535009c5-e919-4565-9755-3bb3ff51a241" />
+be able to
 follow the example snippets exactly as provided.
 
 ### What's all this Googley stuff?
